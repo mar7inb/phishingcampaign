@@ -72,6 +72,10 @@ Once you log in, create as many user accounts as you want under “User Manageme
 
 USE THE FOLLOWING SENDER PROFILE SETTINGS:
 
+
+![Screenshot 2025-03-26 at 1 37 48 PM](https://github.com/user-attachments/assets/9a538b73-38f7-4dc4-85f1-4e4ec24f1a73)
+
+
 *****IF YOU WISH TO SPOOF PROCEED WITH THE GUIDE********
 
 Use this source for landing pages and email templates:
@@ -113,7 +117,6 @@ Once this is set up you can send a test email via GoPhish under “Sending Profi
 
 The password is set up under “SMTP Credentials” within your SMTP Relay Service.
 
-![Screenshot 2025-03-26 at 1 37 48 PM](https://github.com/user-attachments/assets/9a538b73-38f7-4dc4-85f1-4e4ec24f1a73)
 
 
 Email Templates:

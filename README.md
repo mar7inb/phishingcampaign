@@ -118,6 +118,8 @@ Once this is set up you can send a test email via GoPhish under “Sending Profi
 The password is set up under “SMTP Credentials” within your SMTP Relay Service.
 
 
+![Screenshot 2025-03-26 at 1 49 55 PM](https://github.com/user-attachments/assets/f5117699-2fa9-44bf-afff-451716f6d0c5)
+
 
 Email Templates:
 

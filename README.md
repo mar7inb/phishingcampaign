@@ -9,6 +9,8 @@ https://drive.google.com/file/d/18czLunTIWuOTnMvzPk47J5c_Xwx03ZVw/view?usp=shari
 Tools / Technologies needed:
 
 VPS (Virtual Private Server) of your choice. Digital Ocean will be used for this guide. 
+
+
 SMTP Relay of your choice. Mailgun will be used for this guide.
 
 Setting up VPS and installing GoPhish:

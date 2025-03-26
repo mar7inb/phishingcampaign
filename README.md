@@ -157,7 +157,8 @@ Campaigns:
 Navigate to Campaigns. Click on +New Campaigns.Create a Name, choose an Email Template, choose a Landing Page. For URL use your VPS IP Address. Modify launch date to your liking. Choose desired Sending Profile and Groups.  Launch Campaign!!!!
 
 
-![Uploading Screenshot 2025-03-26 at 1.39.41 PM.png…]()
+
+![Screenshot 2025-03-26 at 1 39 41 PM](https://github.com/user-attachments/assets/25e5ae62-f0bf-41f1-ae2b-d24a81b9f7a0)
 
 
 Demo:

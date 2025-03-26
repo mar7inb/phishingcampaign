@@ -1,6 +1,10 @@
 # phishingcampaign
 Phishing Campaign using GoPhish
 
+Watch GoPhish Demo:
+
+https://drive.google.com/file/d/18czLunTIWuOTnMvzPk47J5c_Xwx03ZVw/view?usp=sharing
+
 
 Tools / Technologies needed:
 
@@ -18,6 +22,9 @@ unzip gophish-v0.12.1-linux-64bit.zip
 nano config.json
 
 Configure the json file to this:
+
+![Screenshot 2025-03-26 at 1 36 57 PM](https://github.com/user-attachments/assets/c5c8e524-9383-4b80-ad20-5b357976c8c2)
+
 
 
 
@@ -39,6 +46,7 @@ gophish@gophish.dev:~/src/github.com/gophish/gophish$ ./gophish
 Login using admin and the password that gets generated for you. 
 
 
+![Screenshot 2025-03-26 at 1 37 29 PM](https://github.com/user-attachments/assets/49952f6a-460a-4b7d-855c-447a8f968deb)
 
 
 
@@ -103,6 +111,8 @@ Once this is set up you can send a test email via GoPhish under “Sending Profi
 
 The password is set up under “SMTP Credentials” within your SMTP Relay Service.
 
+![Screenshot 2025-03-26 at 1 37 48 PM](https://github.com/user-attachments/assets/9a538b73-38f7-4dc4-85f1-4e4ec24f1a73)
+
 
 Email Templates:
 
@@ -115,6 +125,9 @@ Copy and Paste your HTML code.
 We recommend capturing submitted data and passwords. You can also add a “redirect to” once the user is done entering their credentials. 
 
 
+![Screenshot 2025-03-26 at 1 39 15 PM](https://github.com/user-attachments/assets/6853dca3-74a6-4de9-9ca5-512d8ddcb1a4)
+
+
 
 Email Templates:
 
@@ -125,15 +138,24 @@ The Envelope Sender and the SMTP From need to match. We used noreply@micrsoftsec
 Paste your HTML Code. Again we recommend using a combination of this https://github.com/FreeZeroDays/GoPhish-Templates with chatGPT to achieve your phishing campaign goals. 
 
 
+![Screenshot 2025-03-26 at 1 39 23 PM](https://github.com/user-attachments/assets/89a31e17-3f2c-4433-8d0f-f93f112b3a23)
+
+
 Users And Groups:
 
 To create a new group, navigate to Users and Groups and click + New Group. Enter a name for the group, then add each user by providing their name, email, and position. Click + Add after entering each user. Once all users have been added, click Save Changes. Your group is now ready to be used in campaigns.
+
+
+![Screenshot 2025-03-26 at 1 39 30 PM](https://github.com/user-attachments/assets/f4e03b5c-0b02-4147-bb41-1e750184a1eb)
 
 
 
 Campaigns:
 
 Navigate to Campaigns. Click on +New Campaigns.Create a Name, choose an Email Template, choose a Landing Page. For URL use your VPS IP Address. Modify launch date to your liking. Choose desired Sending Profile and Groups.  Launch Campaign!!!!
+
+
+![Uploading Screenshot 2025-03-26 at 1.39.41 PM.png…]()
 
 
 Demo:
